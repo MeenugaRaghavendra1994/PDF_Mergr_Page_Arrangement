@@ -1,0 +1,16 @@
+/* Streamlit Custom Styling */
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+.stButton>button {
+    background-color: #007BFF;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 16px;
+    border: none;
+}
+
+.stButton>button:hover {
+    background-color: #0056b3;
+}
